@@ -40,7 +40,7 @@ const ContactForm = () => {
 
   return (
     <div className="relative z-10 max-w-lg w-full">
-      <h2 className="text-3xl font-bold mb-6 text-center animate-fade-in">Let's get in touch</h2>
+      <h2 className="text-3xl font-bold mb-6 text-center animate-fade-in">Let&lsquo;s get in touch</h2>
       {isSubmitted ? (
         <div className="bg-white p-6 rounded-lg shadow-md text-center">
           <h3 className="text-2xl font-bold mb-4">Thank you!</h3>
