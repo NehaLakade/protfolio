@@ -24,7 +24,9 @@ const Home = () => {
           </div>
           <div className="mt-6 md:mt-0 text-center md:text-left">
             <h1 className="text-5xl font-bold mb-4 animate-fade-in">
-              <h2>Hi I'M Neha</h2>
+              <h2 className="text-5xl font-bold mb-4 animate-fade-in">
+                 Hi I&apos;M Neha
+              </h2>
             </h1>
             <p className="max-w-xl text-lg text-gray-200 animate-fade-in">
               Hello! I am a passionate web developer with experience in creating
